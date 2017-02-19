@@ -4,7 +4,7 @@
 --
 -- Host: 127.0.0.1
 -- Generation Time: Feb 06, 2017 at 07:35 AM
--- Server version: 10.1.19-MariaDB
+-- Server version: 10.1.19-RatihDB
 -- PHP Version: 7.0.13
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -37,7 +37,7 @@ CREATE TABLE `biodata` (
 --
 
 INSERT INTO `biodata` (`nim`, `nama`, `alamat`) VALUES
-('14.111.135', 'Ipa Rupaedah', 'Majalaya');
+('14.111.154', 'Ratih Nengsih', 'soreang');
 
 --
 -- Indexes for dumped tables
